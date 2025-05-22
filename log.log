@@ -1,0 +1,111 @@
+2025-05-23T00:13:18.078+08:00  INFO 10928 --- [spring-mcp-prod-webmvc] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-23T00:13:18.119+08:00  INFO 10928 --- [spring-mcp-prod-webmvc] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-05-23T00:13:27.727+08:00  INFO 28264 --- [spring-mcp-prod-webmvc] [main] c.s.prod.SpringMcpProdWebmvcApplication  : Starting SpringMcpProdWebmvcApplication using Java 21.0.5 with PID 28264 (D:\workspace-micronaut-kotlin\spring-mcp-prod-webmvc\build\classes\java\main started by jilijili in D:\workspace-micronaut-kotlin\spring-mcp-prod-webmvc)
+2025-05-23T00:13:27.740+08:00  INFO 28264 --- [spring-mcp-prod-webmvc] [main] c.s.prod.SpringMcpProdWebmvcApplication  : No active profile set, falling back to 1 default profile: "default"
+2025-05-23T00:13:31.962+08:00  INFO 28264 --- [spring-mcp-prod-webmvc] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-05-23T00:13:32.042+08:00  INFO 28264 --- [spring-mcp-prod-webmvc] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-05-23T00:13:32.042+08:00  INFO 28264 --- [spring-mcp-prod-webmvc] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-23T00:13:32.329+08:00  INFO 28264 --- [spring-mcp-prod-webmvc] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-05-23T00:13:32.329+08:00  INFO 28264 --- [spring-mcp-prod-webmvc] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 4393 ms
+2025-05-23T00:13:36.383+08:00  INFO 28264 --- [spring-mcp-prod-webmvc] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable tools capabilities, notification: true
+2025-05-23T00:13:36.383+08:00  INFO 28264 --- [spring-mcp-prod-webmvc] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 3
+2025-05-23T00:13:36.383+08:00  INFO 28264 --- [spring-mcp-prod-webmvc] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable resources capabilities, notification: true
+2025-05-23T00:13:36.394+08:00  INFO 28264 --- [spring-mcp-prod-webmvc] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable prompts capabilities, notification: true
+2025-05-23T00:13:36.403+08:00  INFO 28264 --- [spring-mcp-prod-webmvc] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable completions capabilities
+2025-05-23T00:13:36.754+08:00  INFO 28264 --- [spring-mcp-prod-webmvc] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-05-23T00:13:36.771+08:00  INFO 28264 --- [spring-mcp-prod-webmvc] [main] c.s.prod.SpringMcpProdWebmvcApplication  : Started SpringMcpProdWebmvcApplication in 11.57 seconds (process running for 14.836)
+2025-05-23T00:14:18.778+08:00  INFO 28264 --- [spring-mcp-prod-webmvc] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-23T00:14:18.779+08:00  INFO 28264 --- [spring-mcp-prod-webmvc] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-05-23T00:14:18.781+08:00  INFO 28264 --- [spring-mcp-prod-webmvc] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-05-23T00:15:37.954+08:00  INFO 19784 --- [spring-mcp-prod-webmvc] [main] c.s.prod.SpringMcpProdWebmvcApplication  : Starting SpringMcpProdWebmvcApplication using Java 21.0.5 with PID 19784 (D:\workspace-micronaut-kotlin\spring-mcp-prod-webmvc\build\classes\java\main started by jilijili in D:\workspace-micronaut-kotlin\spring-mcp-prod-webmvc)
+2025-05-23T00:15:37.958+08:00  INFO 19784 --- [spring-mcp-prod-webmvc] [main] c.s.prod.SpringMcpProdWebmvcApplication  : No active profile set, falling back to 1 default profile: "default"
+2025-05-23T00:15:41.657+08:00  INFO 19784 --- [spring-mcp-prod-webmvc] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-05-23T00:15:41.744+08:00  INFO 19784 --- [spring-mcp-prod-webmvc] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-05-23T00:15:41.744+08:00  INFO 19784 --- [spring-mcp-prod-webmvc] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-23T00:15:42.028+08:00  INFO 19784 --- [spring-mcp-prod-webmvc] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-05-23T00:15:42.028+08:00  INFO 19784 --- [spring-mcp-prod-webmvc] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3931 ms
+2025-05-23T00:15:46.440+08:00  INFO 19784 --- [spring-mcp-prod-webmvc] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable tools capabilities, notification: true
+2025-05-23T00:15:46.440+08:00  INFO 19784 --- [spring-mcp-prod-webmvc] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 3
+2025-05-23T00:15:46.440+08:00  INFO 19784 --- [spring-mcp-prod-webmvc] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable resources capabilities, notification: true
+2025-05-23T00:15:46.440+08:00  INFO 19784 --- [spring-mcp-prod-webmvc] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable prompts capabilities, notification: true
+2025-05-23T00:15:46.455+08:00  INFO 19784 --- [spring-mcp-prod-webmvc] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable completions capabilities
+2025-05-23T00:15:46.852+08:00  INFO 19784 --- [spring-mcp-prod-webmvc] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-05-23T00:15:46.867+08:00  INFO 19784 --- [spring-mcp-prod-webmvc] [main] c.s.prod.SpringMcpProdWebmvcApplication  : Started SpringMcpProdWebmvcApplication in 11.409 seconds (process running for 17.045)
+2025-05-23T00:16:01.847+08:00  INFO 19784 --- [spring-mcp-prod-webmvc] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-23T00:16:01.849+08:00  INFO 19784 --- [spring-mcp-prod-webmvc] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-05-23T00:16:01.852+08:00  INFO 19784 --- [spring-mcp-prod-webmvc] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2025-05-23T00:17:26.009+08:00  INFO 15896 --- [spring-mcp-prod-webmvc] [main] c.s.prod.SpringMcpProdWebmvcApplication  : Starting SpringMcpProdWebmvcApplication using Java 21.0.5 with PID 15896 (D:\workspace-micronaut-kotlin\spring-mcp-prod-webmvc\build\classes\java\main started by jilijili in D:\workspace-micronaut-kotlin\spring-mcp-prod-webmvc)
+2025-05-23T00:17:26.009+08:00  INFO 15896 --- [spring-mcp-prod-webmvc] [main] c.s.prod.SpringMcpProdWebmvcApplication  : No active profile set, falling back to 1 default profile: "default"
+2025-05-23T00:17:28.653+08:00  INFO 15896 --- [spring-mcp-prod-webmvc] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-05-23T00:17:28.717+08:00  INFO 15896 --- [spring-mcp-prod-webmvc] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-05-23T00:17:28.728+08:00  INFO 15896 --- [spring-mcp-prod-webmvc] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-23T00:17:28.969+08:00  INFO 15896 --- [spring-mcp-prod-webmvc] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-05-23T00:17:28.969+08:00  INFO 15896 --- [spring-mcp-prod-webmvc] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2878 ms
+2025-05-23T00:17:31.600+08:00  INFO 15896 --- [spring-mcp-prod-webmvc] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable tools capabilities, notification: true
+2025-05-23T00:17:31.600+08:00  INFO 15896 --- [spring-mcp-prod-webmvc] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 3
+2025-05-23T00:17:31.600+08:00  INFO 15896 --- [spring-mcp-prod-webmvc] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable resources capabilities, notification: true
+2025-05-23T00:17:31.617+08:00  INFO 15896 --- [spring-mcp-prod-webmvc] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable prompts capabilities, notification: true
+2025-05-23T00:17:31.617+08:00  INFO 15896 --- [spring-mcp-prod-webmvc] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable completions capabilities
+2025-05-23T00:17:32.009+08:00  INFO 15896 --- [spring-mcp-prod-webmvc] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-05-23T00:17:32.052+08:00  INFO 15896 --- [spring-mcp-prod-webmvc] [main] c.s.prod.SpringMcpProdWebmvcApplication  : Started SpringMcpProdWebmvcApplication in 6.81 seconds (process running for 8.207)
+2025-05-23T00:17:44.450+08:00  INFO 15896 --- [spring-mcp-prod-webmvc] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-23T00:17:44.467+08:00  INFO 15896 --- [spring-mcp-prod-webmvc] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-05-23T00:17:44.467+08:00  INFO 15896 --- [spring-mcp-prod-webmvc] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2025-05-23T00:19:56.210+08:00  INFO 20232 --- [spring-mcp-prod-webmvc] [main] c.s.prod.SpringMcpProdWebmvcApplication  : Starting SpringMcpProdWebmvcApplication using Java 21.0.5 with PID 20232 (D:\workspace-micronaut-kotlin\spring-mcp-prod-webmvc\build\classes\java\main started by jilijili in D:\workspace-micronaut-kotlin\spring-mcp-prod-webmvc)
+2025-05-23T00:19:56.226+08:00  INFO 20232 --- [spring-mcp-prod-webmvc] [main] c.s.prod.SpringMcpProdWebmvcApplication  : No active profile set, falling back to 1 default profile: "default"
+2025-05-23T00:19:59.463+08:00  INFO 20232 --- [spring-mcp-prod-webmvc] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-05-23T00:19:59.577+08:00  INFO 20232 --- [spring-mcp-prod-webmvc] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-05-23T00:19:59.579+08:00  INFO 20232 --- [spring-mcp-prod-webmvc] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-23T00:20:00.028+08:00  INFO 20232 --- [spring-mcp-prod-webmvc] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-05-23T00:20:00.028+08:00  INFO 20232 --- [spring-mcp-prod-webmvc] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3668 ms
+2025-05-23T00:20:03.655+08:00  INFO 20232 --- [spring-mcp-prod-webmvc] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable tools capabilities, notification: true
+2025-05-23T00:20:03.655+08:00  INFO 20232 --- [spring-mcp-prod-webmvc] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 3
+2025-05-23T00:20:03.655+08:00  INFO 20232 --- [spring-mcp-prod-webmvc] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable resources capabilities, notification: true
+2025-05-23T00:20:03.655+08:00  INFO 20232 --- [spring-mcp-prod-webmvc] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable prompts capabilities, notification: true
+2025-05-23T00:20:03.655+08:00  INFO 20232 --- [spring-mcp-prod-webmvc] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable completions capabilities
+2025-05-23T00:20:03.908+08:00  INFO 20232 --- [spring-mcp-prod-webmvc] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-05-23T00:20:03.931+08:00  INFO 20232 --- [spring-mcp-prod-webmvc] [main] c.s.prod.SpringMcpProdWebmvcApplication  : Started SpringMcpProdWebmvcApplication in 9.647 seconds (process running for 16.055)
+2025-05-23T00:20:37.757+08:00  INFO 20232 --- [spring-mcp-prod-webmvc] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-23T00:20:37.798+08:00  INFO 20232 --- [spring-mcp-prod-webmvc] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-05-23T00:20:53.771+08:00  INFO 19584 --- [spring-mcp-prod-webmvc] [main] c.s.prod.SpringMcpProdWebmvcApplication  : Starting SpringMcpProdWebmvcApplication using Java 21.0.5 with PID 19584 (D:\workspace-micronaut-kotlin\spring-mcp-prod-webmvc\build\classes\java\main started by jilijili in D:\workspace-micronaut-kotlin\spring-mcp-prod-webmvc)
+2025-05-23T00:20:53.772+08:00  INFO 19584 --- [spring-mcp-prod-webmvc] [main] c.s.prod.SpringMcpProdWebmvcApplication  : No active profile set, falling back to 1 default profile: "default"
+2025-05-23T00:20:57.890+08:00  INFO 19584 --- [spring-mcp-prod-webmvc] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-05-23T00:20:58.291+08:00  INFO 19584 --- [spring-mcp-prod-webmvc] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-05-23T00:20:58.293+08:00  INFO 19584 --- [spring-mcp-prod-webmvc] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-23T00:20:58.551+08:00  INFO 19584 --- [spring-mcp-prod-webmvc] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-05-23T00:20:58.551+08:00  INFO 19584 --- [spring-mcp-prod-webmvc] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 4590 ms
+2025-05-23T00:21:01.787+08:00  INFO 19584 --- [spring-mcp-prod-webmvc] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable tools capabilities, notification: true
+2025-05-23T00:21:01.788+08:00  INFO 19584 --- [spring-mcp-prod-webmvc] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 3
+2025-05-23T00:21:01.789+08:00  INFO 19584 --- [spring-mcp-prod-webmvc] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable resources capabilities, notification: true
+2025-05-23T00:21:01.790+08:00  INFO 19584 --- [spring-mcp-prod-webmvc] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable prompts capabilities, notification: true
+2025-05-23T00:21:01.792+08:00  INFO 19584 --- [spring-mcp-prod-webmvc] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable completions capabilities
+2025-05-23T00:21:02.014+08:00  INFO 19584 --- [spring-mcp-prod-webmvc] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-05-23T00:21:02.039+08:00  INFO 19584 --- [spring-mcp-prod-webmvc] [main] c.s.prod.SpringMcpProdWebmvcApplication  : Started SpringMcpProdWebmvcApplication in 10.739 seconds (process running for 18.117)
+2025-05-23T00:23:37.365+08:00  INFO 19584 --- [spring-mcp-prod-webmvc] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-23T00:23:37.367+08:00  INFO 19584 --- [spring-mcp-prod-webmvc] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-05-23T00:23:37.369+08:00  INFO 19584 --- [spring-mcp-prod-webmvc] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2025-05-23T00:23:37.867+08:00  INFO 19584 --- [spring-mcp-prod-webmvc] [http-nio-8080-exec-2] i.m.server.McpAsyncServer                : Client initialize request - Protocol: 2024-11-05, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=Trae, version=1.98.2]
+2025-05-23T00:28:19.497+08:00  INFO 19584 --- [spring-mcp-prod-webmvc] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-23T00:28:49.548+08:00  INFO 19584 --- [spring-mcp-prod-webmvc] [SpringApplicationShutdownHook] o.s.c.support.DefaultLifecycleProcessor  : Shutdown phase 2147482623 ends with 1 bean still running after timeout of 30000ms: [webServerGracefulShutdown]
+2025-05-23T00:28:49.588+08:00  INFO 19584 --- [spring-mcp-prod-webmvc] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown aborted with one or more requests still active
+2025-05-23T00:28:49.610+08:00  WARN 19584 --- [spring-mcp-prod-webmvc] [http-nio-8080-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Ignoring exception, response committed already: org.springframework.web.context.request.async.AsyncRequestTimeoutException
+2025-05-23T00:28:49.612+08:00  WARN 19584 --- [spring-mcp-prod-webmvc] [http-nio-8080-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.context.request.async.AsyncRequestTimeoutException]
+2025-05-23T00:28:57.141+08:00  INFO 30208 --- [spring-mcp-prod-webmvc] [main] c.s.prod.SpringMcpProdWebmvcApplication  : Starting SpringMcpProdWebmvcApplication using Java 21.0.5 with PID 30208 (D:\workspace-micronaut-kotlin\spring-mcp-prod-webmvc\build\classes\java\main started by jilijili in D:\workspace-micronaut-kotlin\spring-mcp-prod-webmvc)
+2025-05-23T00:28:57.141+08:00  INFO 30208 --- [spring-mcp-prod-webmvc] [main] c.s.prod.SpringMcpProdWebmvcApplication  : No active profile set, falling back to 1 default profile: "default"
+2025-05-23T00:29:01.258+08:00  INFO 30208 --- [spring-mcp-prod-webmvc] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-05-23T00:29:01.304+08:00  INFO 30208 --- [spring-mcp-prod-webmvc] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-05-23T00:29:01.305+08:00  INFO 30208 --- [spring-mcp-prod-webmvc] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-23T00:29:01.600+08:00  INFO 30208 --- [spring-mcp-prod-webmvc] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-05-23T00:29:01.600+08:00  INFO 30208 --- [spring-mcp-prod-webmvc] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 4228 ms
+2025-05-23T00:29:05.744+08:00  INFO 30208 --- [spring-mcp-prod-webmvc] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable tools capabilities, notification: true
+2025-05-23T00:29:05.744+08:00  INFO 30208 --- [spring-mcp-prod-webmvc] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 3
+2025-05-23T00:29:05.744+08:00  INFO 30208 --- [spring-mcp-prod-webmvc] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable resources capabilities, notification: true
+2025-05-23T00:29:05.744+08:00  INFO 30208 --- [spring-mcp-prod-webmvc] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable prompts capabilities, notification: true
+2025-05-23T00:29:05.744+08:00  INFO 30208 --- [spring-mcp-prod-webmvc] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable completions capabilities
+2025-05-23T00:29:06.165+08:00  INFO 30208 --- [spring-mcp-prod-webmvc] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-05-23T00:29:06.206+08:00  INFO 30208 --- [spring-mcp-prod-webmvc] [main] c.s.prod.SpringMcpProdWebmvcApplication  : Started SpringMcpProdWebmvcApplication in 10.197 seconds (process running for 11.702)
+2025-05-23T00:29:08.006+08:00  INFO 30208 --- [spring-mcp-prod-webmvc] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-23T00:29:08.008+08:00  INFO 30208 --- [spring-mcp-prod-webmvc] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-05-23T00:29:08.012+08:00  INFO 30208 --- [spring-mcp-prod-webmvc] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2025-05-23T00:35:06.217+08:00 ERROR 30208 --- [spring-mcp-prod-webmvc] [http-nio-8080-exec-4] i.m.spec.McpServerSession                : No handler registered for notification method: notifications/cancelled
+2025-05-23T00:36:27.652+08:00  INFO 30208 --- [spring-mcp-prod-webmvc] [http-nio-8080-exec-8] i.m.server.McpAsyncServer                : Client initialize request - Protocol: 2024-11-05, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=Trae, version=1.98.2]
